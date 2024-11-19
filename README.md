@@ -1,4 +1,4 @@
-# MyFlask
+# MyMemoryWithFlask
 
 Um estudo sobre o uso de filas em memória usando Flask.
 
