@@ -18,6 +18,6 @@ def run(method):
 
 if __name__ == '__main__':
     run('get')
-    for _ in range(10000):
+    for _ in range(100):
         run('post')
     run('get')
